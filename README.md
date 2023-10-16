@@ -21,7 +21,7 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/HMAHD)
 
 Hi there 👋
-- 📒 I’m currently studying at NSBM Green university
+- 📒 I’m currently studying at Esoft metrp university
 - 🌱 I’m currently learning Java, Python, linux & Web dev
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 💬 Ask me about anything
