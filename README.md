@@ -27,7 +27,6 @@ Hi there 👋
 - 💬 Ask me about anything
 - 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
 - 📫 How to reach me: Telegram ☝️
-- 😄 [![Badge](https://3a1ibnz6raa7.runkit.sh)](https://github.com/imesh230)
 - ⚡ Fun fact: learn more about cybersecurity & web 3 concepts 
 
 ![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)
